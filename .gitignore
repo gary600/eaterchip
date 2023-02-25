@@ -1,0 +1,5 @@
+sim
+show.dot
+eaterchip.cpp
+eaterchip.h
+*.o
